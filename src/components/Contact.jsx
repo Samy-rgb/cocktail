@@ -38,14 +38,14 @@ const Contact = () => {
 		<h2>Where to Find Us</h2>
 		
 		<div>
-		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <h3>Visit Our Restraunt</h3>
+		 <p>Nagpur, Maharashtra</p>
 		</div>
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <p>+919699801844</p>
+		 <p>workitsam01@gmail.com</p>
 		</div>
 		
 		<div>
